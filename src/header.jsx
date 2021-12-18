@@ -1,10 +1,9 @@
 import * as React from 'react';
 
-export function Header(){
+export function Header() {
     return(
         <header>
             <h1>Reddit for our own</h1>
-            <h1>Hi hi</h1>
         </header>
     );
 }

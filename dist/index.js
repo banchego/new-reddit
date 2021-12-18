@@ -91,9 +91,10 @@
   !*** ./src/index.jsx ***!
   \***********************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (25:14)\\nFile was processed with these loaders:\\n * ./node_modules/ts-loader/index.js\\nYou may need an additional loader to handle the result of these loaders.\\n| const ReactDom = __importStar(require(\\\"react-dom\\\"));\\n| window.addEventListener(type, 'load', listener(), {\\n>     ReactDom, : .render(React.createElement(Header, null), document.getElementById(elementid, 'react_root'))\\n| });\\n| \");\n\n//# sourceURL=webpack:///./src/index.jsx?");
+"use strict";
+eval("\r\n\n\n//# sourceURL=webpack:///./src/index.jsx?");
 
 /***/ })
 
